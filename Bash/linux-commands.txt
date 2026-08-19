@@ -1,0 +1,8 @@
+----Linux Commands----
+cd .. - move to root 
+cd - current direcotry
+mkdir - create a new direcotry
+ls - list the files
+rm - remove files
+chmod - change/grant the access for read write operations
+touch <file>.txt - create a text file
